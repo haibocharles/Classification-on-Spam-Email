@@ -74,10 +74,16 @@ The following machine learning models were used:
 * Decision Tree
 * CatBoost
 
+---
+
+
 ## 🧠 Deep Learning Models
 
 * LSTM
 * CNN
+
+---
+
 
 ## 📊 Model Evaluation
 
@@ -88,11 +94,17 @@ Evaluation metrics:
 * Recall
 * F1-score
 
+---
+
+
 ## 📈 Results
 
 * Best Model Accuracy: **98%**
 * Deep learning models showed improved performance
 * Random Forest and XGBoost also achieved strong results
+
+---
+
 
 ## 📌 Key Contributions
 
@@ -100,6 +112,9 @@ Evaluation metrics:
 * Compared multiple ML and DL models
 * Achieved high classification accuracy
 * Visualized data using Word Cloud and radar plots
+
+---
+
 
 ## 📌 Future Improvements
 
