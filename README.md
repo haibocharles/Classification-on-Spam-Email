@@ -1,6 +1,3 @@
-我幫你寫一份 **可以直接貼 GitHub 的 README（偏演算法工程師）**
-這份是 **專業 + 面試加分版** 👇
-
 # Spam Email Classification
 
 ## 📌 Project Overview
