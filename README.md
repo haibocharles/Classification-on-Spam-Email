@@ -113,7 +113,7 @@ Evaluation metrics:
 ---
 
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Transformer-based models (BERT)
 * Model deployment (API)
