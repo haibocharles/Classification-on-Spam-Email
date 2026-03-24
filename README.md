@@ -1,12 +1,12 @@
 # Spam Email Classification
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to build a spam email classification system using Natural Language Processing (NLP), Machine Learning, and Deep Learning techniques. The goal is to automatically identify spam emails and improve email filtering efficiency.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Text preprocessing using NLP techniques
 * Feature engineering using TF-IDF and CountVectorizer
@@ -17,7 +17,7 @@ This project aims to build a spam email classification system using Natural Lang
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * SMS Spam Collection Dataset
 * 5,500+ labeled messages
@@ -28,7 +28,7 @@ This project aims to build a spam email classification system using Natural Lang
 
 ---
 
-## 🔧 Text Preprocessing
+## Text Preprocessing
 
 The following NLP preprocessing techniques were applied:
 
@@ -50,7 +50,7 @@ def preprocess_text(sentence):
 
 ---
 
-## 📈 Feature Engineering
+## Feature Engineering
 
 * TF-IDF Vectorization
 * CountVectorizer
@@ -59,7 +59,7 @@ def preprocess_text(sentence):
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following machine learning models were used:
 
@@ -74,7 +74,7 @@ The following machine learning models were used:
 ---
 
 
-## 🧠 Deep Learning Models
+## Deep Learning Models
 
 * LSTM
 * CNN
@@ -82,7 +82,7 @@ The following machine learning models were used:
 ---
 
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Evaluation metrics:
 
@@ -94,7 +94,7 @@ Evaluation metrics:
 ---
 
 
-## 📈 Results
+## Results
 
 * Best Model Accuracy: **98%**
 * Deep learning models showed improved performance
@@ -103,7 +103,7 @@ Evaluation metrics:
 ---
 
 
-## 📌 Key Contributions
+## Key Contributions
 
 * Designed NLP preprocessing pipeline
 * Compared multiple ML and DL models
